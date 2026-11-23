@@ -1,0 +1,23 @@
+# Oliver Parks
+
+> Oliver Parks is an executive search and talent consulting group, founded in 2012, recruiting experienced professionals and executive leadership for technology, infrastructure, med-tech and engineering across Europe and the US.
+
+## Divisions
+- OP Technology: ERP (SAP, Microsoft Dynamics), CRM, cybersecurity, AI, data and cloud
+- OP Infrastructure: infrastructure, energy and renewables
+- OP Med-tech: medical devices and pharmaceuticals
+- OP Engineering: engineering, procurement and logistics
+
+## Services
+Retained search, contingent search, contract & interim, Recruitment as a Service (RaaS)
+
+## Offices
+London (HQ), Newcastle, Dublin, Dortmund, New York, Miami
+
+## Key pages
+- [About us](https://www.oliverparks.com/about.html)
+- [What we do](https://www.oliverparks.com/what-we-do.html)
+- [Our approach](https://www.oliverparks.com/our-approach.html)
+- [Our consultants](https://www.oliverparks.com/consultants.html)
+- [Contact](https://www.oliverparks.com/contact.html)
+- [German version](https://www.oliverparks.com/de/)
